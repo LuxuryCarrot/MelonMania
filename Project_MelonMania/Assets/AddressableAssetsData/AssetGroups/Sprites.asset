@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c2b39936204c18c42bad48fefd2a21e4
+  m_SerializeEntries:
+  - m_GUID: da03c5507db554e43aa16c541d58612a
+    m_Address: Core_Fruits
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Core
+    - Fruit
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d6ffaf1e7f0bc9f4b8c6ba0860e5bba3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8ba72b5e85e458a489483a8c21b5f060, type: 2}
+    - {fileID: 11400000, guid: 852a7b6b647293c4aa915a8a41c18eeb, type: 2}
